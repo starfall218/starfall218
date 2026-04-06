@@ -25,10 +25,6 @@ DeclareDaily isn't just a project. The app is launching on the Google Play Store
 
 ---
 
-## How I Think
-
-I'm drawn to building things that serve people quietly — tools that don't demand attention but earn trust over time. My faith shapes the way I approach problems: with patience, with care, and with the long view in mind.
-
 I'm learning in public, documenting the journey.
 
 ---
