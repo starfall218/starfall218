@@ -2,7 +2,7 @@
 
 I build things — carefully, intentionally, and usually with a quiet conviction that the work matters.
 
-I'm a software engineering student (ADSE, Aptech) and Economics student at the University of Ibadan. But more than the titles, I'm a founder in the making — someone who believes the best products are built at the intersection of deep thinking and genuine faith.
+I'm a software engineering student.
 
 ---
 
@@ -11,7 +11,6 @@ I'm a software engineering student (ADSE, Aptech) and Economics student at the U
 ### 📖 DeclareDaily
 A Bible-based daily declarations app for believers — built with React Native and Expo.
 
-DeclareDaily isn't just a project. The app is launching on the Google Play Store soon.
 
 > *"Speak it before you see it."*
 
