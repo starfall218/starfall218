@@ -1,6 +1,6 @@
 # Hi there👋
 My name is Eni, and I'm an Aptech trained software engineer interested in all things web development.
- - 🛠️I'm currently working on a Spotify Clone.
+ - 🛠️I'm currently working on an Agro-Based Ecommerce Platform for farmers and retailers.
  - I am currently learning Java.
  - I'm open to internship roles in software engineering or web development.
 
