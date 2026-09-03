@@ -4,7 +4,7 @@ My name is Eni, and I'm an Aptech trained software engineer interested in all th
  - I am currently learning Java.
  - I'm open to internship roles in software engineering or web development.
 
-I build things — carefully, intentionally, and usually with a quiet conviction that the work matters.
+I build solutions by breaking the problem down into small bits. This approach has helped me to build platforms like DeclareDaily and Cymplify AI.
 
 I'm a software engineering student.
 
