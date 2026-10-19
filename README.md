@@ -25,10 +25,10 @@ I'm AI-native, not AI-dependent. I use Claude, Gemini, Copilot, and a few others
 **🗓 [DeclareDaily](https://play.google.com/store)** — Bible-based daily declarations, because most affirmation apps are generic and most Bible apps don't do affirmations well. Live on Google Play.
 `React Native` `Kotlin` `SQLite`
 
-**💬 Cymplify AI** — A WhatsApp-native bot for merchants, because about half of WhatsApp sellers are still doing everything by hand. In testing with a real merchant right now.
+**💬 [Cymplify AI](https://github.com/starfall218/Cymplify-AI)** — A WhatsApp-native bot for merchants, because about half of WhatsApp sellers are still doing everything by hand. In testing with a real merchant right now.
 `Python` `FastAPI` `Docker`
 
-**💸 BudgetBasics** — A financial literacy platform for students who were never taught to budget. Built with a 5-person team I was chosen to lead for TechWiz, an international competition.
+**💸 [BudgetBasics](https://budgetbasics-two.vercel.app)** — A financial literacy platform for students who were never taught to budget. Built with a 5-person team I was chosen to lead for TechWiz, an international competition.
 `React` `JavaScript`
 
 **📚 Library Management System** — A team final project at Aptech: a full library system built to spec from a requirements document.
