@@ -14,7 +14,7 @@
 
 I build software the way I approach most problems — figure out who's actually hurting, then go make the thing that fixes it. Started at 12 trying to build my dad a website for his real estate agency, got hooked on what runs behind the apps everyone uses, and never really stopped.
 
-Right now I'm in the ADSE program at Aptech and studying Economics at the University of Ibadan, which is a weirder combination than it sounds — economics is basically "how do people actually behave," and that's the same question I'm asking every time I sit down to build.
+Right now I'm in the ADSE program at Aptech and studying Economics at the University of Ibadan, which is a weirder combination than it sounds — economics is basically "how do people actually think," and that's the same question I'm asking every time I sit down to build.
 
 I'm AI-native, not AI-dependent. I use Claude, Gemini, Copilot, and a few others every day, but the thinking — what to build, what to trust, what to throw out — is still mine. I've had an AI rewrite a file it had no business touching. I caught it, reverted it, and kept going. That's the job now.
 
